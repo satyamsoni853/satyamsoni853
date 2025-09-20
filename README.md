@@ -19,57 +19,70 @@ const satyam = {
   askMeAbout: ["Full-Stack Development", "Backend Systems", "React"],
   reachMe: "satyamsoni853@gmail.com 📬",
 };
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="720" alt="coding animation"> </p>
-🛠 Tech Stack
-Frontend
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" /> </p>
-Backend
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,hibernate&perline=6" /> </p>
-Databases
-<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=6" /> </p>
-Tools & DevOps
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,postman,maven&perline=6" /> </p>
-💼 Experience (Highlights)
+## 🚀 Summary  
+Java Full Stack Developer experienced in building **scalable, user-centric applications** with **Java, Spring Boot, React.js, Next.js, and PostgreSQL**.  
+Strong in **UI/UX, responsive design, and RESTful integrations**. Passionate about clean code, performance, and creating impactful digital solutions.
 
-Frontend React Developer · PeppyPick (Gurugram)
-Built AI-powered interview flows, scoring dashboards, and optimized performance with lazy loading.
+---
 
-Frontend Developer · Uniisphere (Gurugram)
-Developed MVP front-end with React, REST APIs, and CI/CD pipelines.
+## 💼 Experience  
 
-Java Full Stack Developer · JSpider (Bengaluru)
-Built end-to-end apps with Java, Spring Boot, React, and PostgreSQL.
+### 🚀 Front End React Developer | **PeppyPick (Software Pvt. Ltd.)**  
+📍 Hybrid, Gurugram | *Aug 2025 – Present*  
+- Built AI-powered interview flows with REST API integration (timed rounds, scoring, dashboards).  
+- Improved performance with **code-splitting** & **lazy loading** (90+ Lighthouse score).  
+- Collaborated with backend & design teams for a seamless user experience.  
 
-Frontend Intern · ApexPlanet (Bihar)
-Debugged, optimized, and tested responsive web apps.
+### 🖥️ Front-End Developer | **Uniisphere (Connect Unified Pvt. Ltd.)**  
+📍 Hybrid, Gurugram | *Sep 2024 – Present*  
+- Developed scalable **MVP front-end** with responsive React components & REST APIs.  
+- Implemented **CI/CD practices** for faster deployment and version control.  
 
-🧩 Projects
-<p align="center">
+### ☕ Java Full Stack Developer | **JSpider (Training Institute)**  
+📍 Bengaluru | *Apr 2024 – Feb 2025*  
+- Built end-to-end apps using **Java, Spring Boot, React, PostgreSQL**.  
+- Delivered mini-projects demonstrating **REST APIs, SQL, responsive UI**.  
 
-🔹 Portfolio Website → Live
+### 🌐 Front-End Web Developer Intern | **ApexPlanet Software Pvt. Ltd.**  
+📍 Remote, Bihar | *Jan 2025 – Feb 2025*  
+- Optimized and debugged front-end code to enhance performance.  
+- Gained **Agile methodology exposure** (sprint planning, daily stand-ups).  
 
-Responsive, SEO optimized personal portfolio.
+---
 
-🔹 Uniisphere Company Website → Live
+## 🛠 Skills  
 
-Real-time project with reusable React components and APIs.
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind, Bootstrap  
+- **Backend:** Java, J2EE, Servlet, Hibernate, Spring, Spring MVC, Spring Boot  
+- **Databases:** SQL, MySQL, PostgreSQL, MongoDB  
+- **Other:** RESTful APIs, Git, Linux, Responsive Design  
+- **UI Libraries:** Material UI, Shadcn UI, Chakra UI, DaisyUI, Accent UI  
 
-🔹 SlotSync (Doctor Appointment System) → Live
+---
 
-Full-stack scheduling with role-based dashboards and secure DB.
+## 📂 Projects  
 
-🔹 PeppyPick – AI Interview Platform → Live
+- **[Portfolio Website](https://satyamsoni-nextjs-portfolio.vercel.app/)** → Responsive, SEO-optimized personal portfolio.  
+- **[Uniisphere](https://uniisphere.in/)** → Official company website with reusable React components & APIs.  
+- **[SlotSync](https://slot-sync-app-latest.onrender.com/)** → Doctor appointment system with role-based dashboards.  
+- **[AI Interview Platform – PeppyPick](https://peppypick.vercel.app/)** → Candidate/HR flows with secure routes, AI endpoints for question generation, timers, and scoring.  
 
-AI-driven candidate/HR flows, question generation, timers & scoring.
+---
 
-</p>
-📊 GitHub Analytics
-<p align="center"> <img height="180" src="https://streak-stats.demolab.com?user=satyamsoni853&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </p> <p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=satyamsoni853&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsoni853&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/> </p> <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=satyamsoni853&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph"/> </p>
-🏆 Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=satyamsoni853&theme=onestar&no-bg=true&no-frame=true&margin-w=10&row=1&column=7" alt="trophies"/> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/satyamsoni853/satyamsoni853/output/github-contribution-grid-snake.svg" alt="snake animation"/> </p>
-🧊 3D Contribution Calendar
-<p align="center"> <img src="https://raw.githubusercontent.com/satyamsoni853/satyamsoni853/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions"/> </p>
-📬 Let’s Connect
-<p align="center"> <a href="mailto:satyamsoni853@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a> <a href="https://www.linkedin.com/in/satyam-soni-833873293"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a> <a href="https://github.com/satyamsoni853"><img src="https://skillicons.dev/icons?i=github" width="48" /></a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=satyamsoni853&style=for-the-badge&color=6C63FF" alt="views"/> </p> ```
+## 🎓 Education  
+
+- **B.Tech in Computer Science** – Kamala Nehru Institute of Physical & Social Sciences (2021 – 2025)  
+- **12th Grade** – Sangam Modern Inter College (2018 – 2020)  
+- **10th Grade** – Maharishi Vidya Mandir (2018)  
+
+---
+
+## 📫 Connect With Me  
+
+- 📧 Email: [satyamsoni853@gmail.com](mailto:satyamsoni853@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/satyam-soni-833873293](https://www.linkedin.com/in/satyam-soni-833873293/)  
+- 💻 GitHub: [github.com/satyamsoni853](https://github.com/satyamsoni853)  
+
+---
+
+⭐️ From [Satyam Soni](https://github.com/satyamsoni853)  
